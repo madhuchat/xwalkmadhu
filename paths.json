@@ -1,8 +1,6 @@
 {
   "mappings": [
-    "/content/xwalkmadhu/:/",
-    "/content/xwalkmadhu/configuration:/.helix/config.json",
-    "/content/xwalkmadhu/metadata:/metadata.json"
+    "/content/xwalkmadhu/:/"
   ],
   "includes": [
     "/content/xwalkmadhu/"
