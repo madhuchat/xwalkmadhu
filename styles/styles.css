@@ -187,6 +187,12 @@ button {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+
+  /* WKND specific treatments Madhu */
+  text-transform: uppercase;
+  background-color: var(--primary-color);
+  color: var(--dark-color);
+  border-radius: 0;
 }
 
 a.button:hover,
